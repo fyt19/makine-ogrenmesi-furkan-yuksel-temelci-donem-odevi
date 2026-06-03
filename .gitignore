@@ -10,5 +10,4 @@ venv/
 Thumbs.db
 ~$*
 
-# Veri seti (büyük boyut — yerelde tutulur)
-code/dataset/
+# Veri seti: sınıflar ayrı commit'lerle eklendi (ET → MF → PV)
