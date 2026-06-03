@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editör
+.DS_Store
+Thumbs.db
+~$*
+
+# Veri seti (büyük boyut — yerelde tutulur)
+code/dataset/
